@@ -6,3 +6,5 @@ subj. : version control
 
 student information
 
+student name, student roll.no
+
