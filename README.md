@@ -2,7 +2,7 @@
 
 Name : vanshika
 
-subj. : version control
+subj. : version control,maths
 
 student information
 
